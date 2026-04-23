@@ -335,7 +335,7 @@ ul { list-style: none; padding: 0; margin: 0; }
   background-color: var(--green-900);
   background-image:
     linear-gradient(180deg, rgba(15, 26, 18, 0.82) 0%, rgba(30, 58, 36, 0.78) 100%),
-    url('assets/approach-bg.jpg');
+    url('approach-bg.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
