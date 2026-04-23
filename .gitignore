@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Build / dependencies (none needed for static site, but reserved)
+node_modules/
+dist/
+.env
+.env.local
